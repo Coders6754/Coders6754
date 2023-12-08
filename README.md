@@ -2,6 +2,10 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Anjali Sinha 💻!
 </h2>  
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FF69B4&size=24&width=500&lines=Hello+Folks...;A+Full-Stack+Web+Developer;)](https://git.io/typing-svg)
+
+
+
 Hello stranger! I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with MERN stack and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities. 
 
 You can find some of my work on GitHub, and be sure to check out my website for more information about my projects and experience.
