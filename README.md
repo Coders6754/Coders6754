@@ -10,7 +10,6 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 
 
-
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://raw.githubusercontent.com/swapnalshahil/swapnalshahil/master/gifs/coder.gif">
 
 
