@@ -103,6 +103,9 @@ Connect with me on LinkedIn to learn more about my professional background and s
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coders6754&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Coders6754&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 <br> 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
