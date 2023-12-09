@@ -45,7 +45,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 - 💬 ask me about anything, i am happy to help 
 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: she/Her
 
 - ⚡ Fun Fact: Imagination is more important than knowledge 
 
