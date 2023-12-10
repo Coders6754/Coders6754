@@ -111,7 +111,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 ![](https://github-contributor-stats.vercel.app/api?username=Coders6754&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coders6754 &theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coders6754&theme=github_dark" />
 
 <br> 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
