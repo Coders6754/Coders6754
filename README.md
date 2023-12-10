@@ -49,7 +49,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 - ⚡ Fun Fact: Imagination is more important than knowledge 
 
-- 💬 Have a look at my [Resume](https://drive.google.com/file/d/1H6fu5C69N9hVlgfy2rZMl6Dr7Xib29Wl/view?usp=sharing) and [Portfolio]() 
+- 💬 Have a look at my [Resume](https://drive.google.com/file/d/1IeOxCeQgf_bz3aq1oWcLWngbXNRBAIZL/view?usp=sharing) and [Portfolio]() 
 
 </p>
 
