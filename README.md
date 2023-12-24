@@ -47,7 +47,9 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 - 😄 Pronouns: she/Her
 
-- ⚡ Fun Fact: Imagination is more important than knowledge 
+- ⚡ Fun Fact: Imagination is more important than knowledge
+  
+- All my project are available are at [https://Coders6754.github.io/](https://Coders6754.github.io/)
 
 - 💬 Have a look at my [Resume](https://drive.google.com/file/d/1NI1Lj6q_i0taStb6Yh1Xph9NS7LcEvpg/view?usp=sharing) and [Portfolio](https://coders6754.github.io/) 
 
