@@ -99,7 +99,6 @@ Connect with me on LinkedIn to learn more about my professional background and s
 ## 📊 My Github Stats 
 <!-- github status  -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Coders6754&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=Coders6754&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Coders6754&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coders6754&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
