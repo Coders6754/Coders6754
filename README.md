@@ -51,7 +51,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
   
 - All my project are available are at [https://Coders6754.github.io/](https://Coders6754.github.io/)
 
-- 💬 Have a look at my [Resume](https://drive.google.com/file/d/1Jluu_NUH1G52fCkKyrUdxJUriH66qrl7/view?usp=sharing) and [Portfolio](https://coders6754.github.io/) 
+- 💬 Have a look at my [Resume](https://drive.google.com/file/d/1QWlw3C-UrUv6c-it1Lv2ERlGjJeRs059/view?usp=sharing) and [Portfolio](https://coders6754.github.io/) 
 
 </p>
 
